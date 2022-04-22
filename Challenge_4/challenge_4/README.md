@@ -1,7 +1,6 @@
-# challenge_4
-Module 4 Challenge
-
 # Whale Portfolio Risk-Return Analysis
+
+*Module 4 Challenge*
 
 This is a python application written with Pandas in Jupyter Lab that reads in a csv file containing data collected from four different portfolios and the S&P 500. This data allows us to analyze the risk-return profile of each portfolio so that we may make recommendations on which would be good investments.
 
